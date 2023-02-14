@@ -1,0 +1,10 @@
+{
+  "name": "web-app-dev-with-ai",
+  "version": "1.0.0",
+  "repository": "https://github.com/yuya-okada527/web-app-dev-with-ai.git",
+  "author": "yuya-okada527 <yuya.okada527@gmail.com>",
+  "private": true,
+  "devDependencies": {
+    "aicommits": "^1.0.4"
+  }
+}
