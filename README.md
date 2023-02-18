@@ -24,3 +24,8 @@
 ├── dialogs   # 対話型AI(chatGPT)との会話ログ
 └── docs      # AIとの会話をまとめた資料
 ```
+
+## 利用ツール
+
+- chatGPT
+- aicommits
